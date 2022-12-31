@@ -1,14 +1,47 @@
 # HealthEat 🥗  
 BMI 지수로 시작하는 헬스잇 식단 프로그램  
-🥕🍠🍊🍌🌽🥑🥒🥬🥦🥔
+(메인 홍보 사진)  
+🥕🍠🍌🌽🥑🥒🥬🥦🥔
 
-<!--
 
-**Here are some ideas to get you started:**
+# 🥕 헬스잇 개요
+어쩌구저쩌구
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 🍠 헬스잇 목표 
+어쩌구저쩌구
+
+# 🍌 헬스잇 소개
+### 🍓 메인페이지
+(페이지 사진)
+1. 이미지 및 메세지 토글을 사용한 헬스잇 소개
+2. 상단 시작하기 버튼으로 BMI 계산 서비스 접근
+3. 하단 플로팅 메뉴바를 통해 페이지 어느 위치에서든 빠른 접근성
+
+### 🍊 BMI 계산페이지
+(페이지 사진)
+1. 사용자의 정보를 입력받아 BMI를 계산
+2. 유저별로 정보를 저장하여 재방문시의 효율을 높임
+
+### 🍋 BMI 결과페이지
+()
+1. 유저의 입력 정보를 시각화
+2. 시각화된 정보로 사용자의 BMI 범주 및 몸무게 범주 파악 가능
+3. 유저의 BMI 범위별 맞춤 칼로리 식단 추천 정보 제공
+
+### 🍐 검색페이지
+() 
+1. 원하는 메뉴 및 재료 검색 
+
+### 🍆 상세페이지
+()
+1. 해당 식단에 대한 보다 자세한 음식정보 및 영양정보를 제공
+2. 성인 한계/평균 칼로리에 비교한 음식 칼로리 정보를 시각화 
+🥕🍠🍌🌽🥑🥒🥬🥦🥔
+# 🌽 헬스잇 개발기간
+어쩌구
+
+# 🥑 헬스잇 개발스택
+어쩌구
+
+# 🥦 헬스잇 만든 사람들
+누구누구
