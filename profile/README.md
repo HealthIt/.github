@@ -44,6 +44,9 @@
 <br/><br/>
 
 # 🥑 헬스잇 개발스택
+[백엔드](https://github.com/HealthIt/backend)  
+![HTML](https://img.shields.io/badge/html-ededed?style=for-the-badge&logo=html5&logoColor=E34F26)  
+[프론트엔드](https://github.com/HealthIt/frontend)  
 ![HTML](https://img.shields.io/badge/html-ededed?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/css-ededed?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JAVASCRIPT](https://img.shields.io/badge/javaScript-ededed?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)
